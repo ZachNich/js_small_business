@@ -1,0 +1,46 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Dan",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Glen",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Rob",
+            "departmentId": 2,
+            "computerId": 3
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Sales"
+        },
+        {
+            "id": 2,
+            "name": "IT"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Air"
+        },
+        {
+            "id": 2,
+            "model": "Alienware X90"
+        },
+        {
+            "id": 3,
+            "model": "Chromebook"
+        }
+    ]
+}
